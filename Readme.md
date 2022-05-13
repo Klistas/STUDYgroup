@@ -7,4 +7,4 @@
 - [신혁진](https://github.com/shinshinjin)
 
 ## - Chapters.
-- [Chapter_1.](https://github.com/Klistas/STUDYgroup/blob/b8f04a5cced92b41c50244dbd2c8674068e52913/Chapter%201.md)
+- [Chapter 1.](https://github.com/Klistas/STUDYgroup/blob/b8f04a5cced92b41c50244dbd2c8674068e52913/Chapter%201.md)
