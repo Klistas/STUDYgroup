@@ -52,8 +52,8 @@
     > 천공 종이 테이프(punched paper tape) : 종이 테이프 롤에 구멍을 뚫어 비트를 표현한다.
     > 코어 로프 메모리(core rope memory) : 전자기 간섭의 영향을 받지 않는다.
     > 마스크(mask) : 직접 회로 생상 과정에서 사용하는 공판화(stencil)를 뜻한다.
-    > 프로그래머블 읽기 전용 메모리(PROM, Programmable ROM) : 직접 프로그래밍 할 수 있는 ROM 이지만, 
-                                                                단 한번만 ROM 의 프로그램을 적어 넣을 수 있다.
+    > 프로그래머블 읽기 전용 메모리(PROM, Programmable ROM) : 
+    직접 프로그래밍 할 수 있는 ROM 이지만, 단 한번만 ROM 의 프로그램을 적어 넣을 수 있다.
     > 지울 수 있는 읽기 전용 메모리(EPROM, erasable programmmable ROM) : PROM과 비슷하지만, 저장된 내용을 지울 수 있다.
     > 전기로 지울 수 있는 읽기 전용 메모리(EEPPROM, electrically EPROM) : 전기로 지울 수 있는 EPROM 이다.
 
