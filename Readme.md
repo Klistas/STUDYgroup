@@ -16,3 +16,5 @@
 - [Chapter 7.](https://github.com/Klistas/STUDYgroup/blob/f72f7d3d5615310058e7ca13d7e449f5dbf9a259/Chapter%207.md)
 - [Chapter 8.](https://github.com/Klistas/STUDYgroup/blob/main/Chapter%208.md)
 - [Chapter 9.](https://github.com/Klistas/STUDYgroup/blob/main/Chapter%209.md)
+- [Chapter 10.](https://github.com/Klistas/STUDYgroup/blob/571ea8921e38aaf0d7b427646c3283a65835a74d/Chapter%2010.md)
+- [Chapter 11.](https://github.com/Klistas/STUDYgroup/blob/571ea8921e38aaf0d7b427646c3283a65835a74d/Chaper%2011.md)
