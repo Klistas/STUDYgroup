@@ -10,7 +10,7 @@
 - [Chapter 1.](https://github.com/Klistas/STUDYgroup/blob/cec4ec587baf904a9f8e4d36af8b418768d2ff25/Chapter%201.md) : 컴퓨터 내부의 언어 체계 - 컴퓨터는 어떤 말을 사용할까.
 - [Chapter 2.](https://github.com/Klistas/STUDYgroup/blob/cff16ca3791cb30452f99aed54279b3ed1b56696/Chapter%202.md) : 전자 회로의 조합 논리 - 컴퓨터는 어떤 논리로 비트를 다루는가.
 - [Chapter 3.](https://github.com/Klistas/STUDYgroup/blob/6eb4bfe1eaf924887a12e36d9a4589ea91219697/Chapter%203.md) : 메모리와 디스크의 핵심 : 순차 논리 - 컴퓨터는 비트를 어떻게 기억하는가.
-- [Chapter 4.](https://github.com/Klistas/STUDYgroup/blob/720c8e762ae8d1128c45e0986ad74a8a8912dee2/Chapter%204.md) : 컴퓨터 내부 구조 - 컴퓨터 하드웨어는 어떻게 구성되는가.
+- [Chapter 4.](https://github.com/Klistas/STUDYgroup/blob/60d596c33052c0ea2f6f155b8b92d9e87e5f51af/Chapter%204.md) : 컴퓨터 내부 구조 - 컴퓨터 하드웨어는 어떻게 구성되는가.
 - [Chapter 5.](https://github.com/Klistas/STUDYgroup/blob/a253403e4157a597a3a60ea38a544625f3fb8216/Chapter%205.md) : 컴퓨터 아키텍처와 운영체제 - 컴퓨터는 어떻게 프로그램과 메모리를 조직적으로 관리할까.
 - [Chapter 6.](https://github.com/Klistas/STUDYgroup/blob/d852513d9148c1f3961df5aafeee1e1dbf557339/Chapter%206.md) : 입출력과 네트워킹 - 컴퓨터는 외부와 어떻게 상호작용하는가.
 - [Chapter 7.](https://github.com/Klistas/STUDYgroup/blob/f72f7d3d5615310058e7ca13d7e449f5dbf9a259/Chapter%207.md) : 데이터 구조와 처리 - 어떻게 해야 프로그램에서 데이터를 잘 구성하고 처리할까.
