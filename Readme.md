@@ -8,7 +8,7 @@
 
 ## - Chapters.
 - [Chapter 1.](https://github.com/Klistas/STUDYgroup/blob/cec4ec587baf904a9f8e4d36af8b418768d2ff25/Chapter%201.md) : 컴퓨터 내부의 언어 체계 - 컴퓨터는 어떤 말을 사용할까.
-- [Chapter 2.](https://github.com/Klistas/STUDYgroup/blob/720c8e762ae8d1128c45e0986ad74a8a8912dee2/Chapter%202.md) : 전자 회로의 조합 논리 - 컴퓨터는 어떤 논리로 비트를 다루는가.
+- [Chapter 2.](https://github.com/Klistas/STUDYgroup/blob/cff16ca3791cb30452f99aed54279b3ed1b56696/Chapter%202.md) : 전자 회로의 조합 논리 - 컴퓨터는 어떤 논리로 비트를 다루는가.
 - [Chapter 3.](https://github.com/Klistas/STUDYgroup/blob/6eb4bfe1eaf924887a12e36d9a4589ea91219697/Chapter%203.md) : 메모리와 디스크의 핵심 : 순차 논리 - 컴퓨터는 비트를 어떻게 기억하는가.
 - [Chapter 4.](https://github.com/Klistas/STUDYgroup/blob/720c8e762ae8d1128c45e0986ad74a8a8912dee2/Chapter%204.md) : 컴퓨터 내부 구조 - 컴퓨터 하드웨어는 어떻게 구성되는가.
 - [Chapter 5.](https://github.com/Klistas/STUDYgroup/blob/a253403e4157a597a3a60ea38a544625f3fb8216/Chapter%205.md) : 컴퓨터 아키텍처와 운영체제 - 컴퓨터는 어떻게 프로그램과 메모리를 조직적으로 관리할까.
