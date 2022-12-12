@@ -20,3 +20,4 @@
 - [Chapter 11.](https://github.com/Klistas/STUDYgroup/blob/571ea8921e38aaf0d7b427646c3283a65835a74d/Chaper%2011.md) : 성능 향상을 위한 알고리즘 기법 - 계산을 간소화하는 프로그래밍 트릭.
 - [Chapter 12.](https://github.com/Klistas/STUDYgroup/blob/main/Chapter%2012.md) : 병렬성과 비동기성 - 컴퓨터는 어떻게 한 번에 많은 일을 하는가.
 - [Chapter 13.](https://github.com/Klistas/STUDYgroup/blob/999c4a334b64f0d41fe7971c08106e75cec56050/Chapter%2013.md) : 컴퓨터 보안 - 컴퓨터는 어떻게 데이터를 안전하게 지키는가.
+- [Chapter Last.](https://github.com/Klistas/STUDYgroup/blob/aae4d08b2c02fbc852a167795bf26bdf0e0874bc/Chapter%20Last.md) : 인공지능, 빅데이터, 실무 상식과 조언
